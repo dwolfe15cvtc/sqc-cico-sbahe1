@@ -62,3 +62,13 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 * Should display "Developer" for the user name.
 
 
+# Module 6.8: Professional and Neutral Color Scheme
+
+## Test steps
+1. Build and run CiCo.
+2. Observe the background, text, and button colors on all panels (main, status, and error).
+
+## Expected results
+* The background colors should be neutral (e.g., shades of gray, white, or muted blue).
+* The text should be clearly readable with sufficient contrast.
+* The button colors should be professional and not overly bright.
